@@ -1,6 +1,7 @@
 Service Worker Integration in Next.js Project
 This project demonstrates how to integrate a Service Worker into a Next.js application and deploy it on Vercel.
 
+
 # Getting Started with Create React App
 
 Live url https://service-worker-18vx0oiqb-prasha111s-projects.vercel.app/
